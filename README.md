@@ -1,2 +1,4 @@
 # hw
-Initial version of firmware code
+Initial version of firmware source code.
+
+Currently focusing only on boot part.
